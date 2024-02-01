@@ -122,7 +122,7 @@ time_label = tk.Label(root, text=f"Time Left: {time_left} seconds", font=("Times
 time_label.pack(padx=20, pady=10, anchor='center')
 
 # Ký tên 
-name_label = tk.Label(root, text="Đặng Minh Nhựt", font=("Times New Roman", 10),bg='#000000',fg='#FFFFFF')
+name_label = tk.Label(root, text="Vincentdag", font=("Times New Roman", 10),bg='#000000',fg='#FFFFFF')
 name_label.place(x=10, y=10)
 
 # Tạo Label để hiển thị điểm cao nhất
